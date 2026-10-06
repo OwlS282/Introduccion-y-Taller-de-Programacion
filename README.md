@@ -1,4 +1,4 @@
 # Introduccion-y-Taller-de-Programacion
-Tareas y Proyectos de Introducción y Taller de Programación
+Tareas, Proyectos y Exámenes de Introducción y Taller de Programación 
 
 **Lenguaje:** Python
