@@ -1,0 +1,1174 @@
+{
+    "Jugador": {
+        "nombre": "Owel Jafet",
+        "monedas": 62685,
+        "tiempoInicio": 1782686902.4679706,
+        "totalMonedasGeneradas": 109675,
+        "totalProductosComprados": 197,
+        "cantidadTerrenos": 2,
+        "tiempoAcumulado": 5183.700382947922,
+        "inventario": [],
+        "cantidadPorTipo": {
+            "Lana": 1,
+            "Zanahoria": 6,
+            "Vaca": 9,
+            "Tomate": 7,
+            "Maiz": 6,
+            "Banco": 15,
+            "Oveja": 7,
+            "Gallina": 6,
+            "Cerca": 58,
+            "Pato": 6,
+            "Cafetal": 5,
+            "Cacaotero": 5,
+            "Papa": 7,
+            "Limonero": 5,
+            "Naranjo": 5,
+            "Manzano": 6,
+            "Fuente": 7,
+            "Molino": 15,
+            "Cerdo": 4,
+            "Estatua": 11,
+            "Trigo": 6
+        }
+    },
+    "terrenos": [
+        {
+            "id": 0,
+            "matriz": [
+                [
+                    {
+                        "tipo": "Lana",
+                        "horaInicio": 1781764550.0672061,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725423.362415,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Pato",
+                        "horaInicio": 1781764541.9408314,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Pato",
+                        "horaInicio": 1781764538.8376715,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725400.7735517,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Oveja",
+                        "horaInicio": 1781764537.993382,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Oveja",
+                        "horaInicio": 1781764538.2816074,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725387.765649,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Cerdo",
+                        "horaInicio": 1781764534.320928,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerdo",
+                        "horaInicio": 1781764534.0514495,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725378.003651,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Vaca",
+                        "horaInicio": 1781764531.976203,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Vaca",
+                        "horaInicio": 1781764532.4613976,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725420.9657445,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Pato",
+                        "horaInicio": 1781764542.3538861,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Pato",
+                        "horaInicio": 1781764542.7341495,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725393.2952993,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Oveja",
+                        "horaInicio": 1781764537.6577039,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Oveja",
+                        "horaInicio": 1781764537.3304443,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725385.3749099,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Cerdo",
+                        "horaInicio": 1781764536.5940263,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerdo",
+                        "horaInicio": 1781764536.3086112,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725375.2534964,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Vaca",
+                        "horaInicio": 1781764531.4860778,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Vaca",
+                        "horaInicio": 1781764531.0782566,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725249.2658737,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725244.7586496,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725241.819302,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725238.8440406,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725236.114638,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725232.701764,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725229.8153913,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725227.520002,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725150.1354594,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725146.760506,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725143.629913,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725140.8587468,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725138.686952,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725133.5428715,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725130.5459743,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Gallina",
+                        "horaInicio": 1781764544.2238789,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Gallina",
+                        "horaInicio": 1781764543.6158373,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725356.5175753,
+                        "rotacion": 270
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732699.2941005,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732556.2113843,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732564.650325,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Gallina",
+                        "horaInicio": 1781764544.5479112,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Gallina",
+                        "horaInicio": 1781764544.9591043,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725360.4042292,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732595.9640558,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732618.4805248,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732367.902437,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Fuente",
+                        "horaInicio": 1781732322.535711,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Fuente",
+                        "horaInicio": 1781732285.6965806,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732569.4613087,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725254.2668223,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725257.2507775,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725365.6522448,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732689.7374864,
+                        "rotacion": 180
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732769.6005516,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732364.218727,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Fuente",
+                        "horaInicio": 1781732280.4797134,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Fuente",
+                        "horaInicio": 1781732319.5344265,
+                        "rotacion": 0
+                    },
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732181.8996084,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781731981.641424,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732187.702959,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732680.2815526,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732636.3079379,
+                        "rotacion": 270
+                    },
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732605.9434679,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732079.4794788,
+                        "rotacion": 270
+                    },
+                    {
+                        "tipo": "Fuente",
+                        "horaInicio": 1781731973.7696779,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732084.175967,
+                        "rotacion": 90
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732530.8179946,
+                        "rotacion": 180
+                    },
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732534.5732858,
+                        "rotacion": 180
+                    },
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732202.4870276,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Banco",
+                        "horaInicio": 1781732102.8265185,
+                        "rotacion": 180
+                    },
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732206.2588549,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725859.650514,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725863.7477155,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725869.9647064,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725873.097974,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725876.0246408,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725879.4266915,
+                        "rotacion": 0
+                    },
+                    null,
+                    null,
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724617.5980823,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724615.0741923,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724612.1200597,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724546.673763,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724526.3897622,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724522.1148744,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Papa",
+                        "horaInicio": 1781764511.091705,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Tomate",
+                        "horaInicio": 1781725553.9738612,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Zanahoria",
+                        "horaInicio": 1781725573.4763513,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Maiz",
+                        "horaInicio": 1781725596.9736028,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Trigo",
+                        "horaInicio": 1781725910.1609943,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725895.9129143,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732751.2915716,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724609.3792076,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Manzano",
+                        "horaInicio": 1781764485.6428792,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Naranjo",
+                        "horaInicio": 1781764486.1821306,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Limonero",
+                        "horaInicio": 1781764486.8227391,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cacaotero",
+                        "horaInicio": 1781764487.4071946,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cafetal",
+                        "horaInicio": 1781764487.79603,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Papa",
+                        "horaInicio": 1781725519.829496,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Tomate",
+                        "horaInicio": 1781725550.6460912,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Zanahoria",
+                        "horaInicio": 1781725569.0411558,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Maiz",
+                        "horaInicio": 1781725593.77761,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Trigo",
+                        "horaInicio": 1781725611.5688336,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725890.4105134,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732747.9310844,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724590.4539542,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Manzano",
+                        "horaInicio": 1781764489.5287802,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Naranjo",
+                        "horaInicio": 1781764489.303961,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Limonero",
+                        "horaInicio": 1781764488.9589348,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cacaotero",
+                        "horaInicio": 1781764488.596,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cafetal",
+                        "horaInicio": 1781764488.2483282,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Papa",
+                        "horaInicio": 1781725514.441851,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Tomate",
+                        "horaInicio": 1781725547.7003431,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Zanahoria",
+                        "horaInicio": 1781725565.9936328,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Maiz",
+                        "horaInicio": 1781725590.1677048,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Trigo",
+                        "horaInicio": 1781725608.566797,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725887.8414857,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732744.1446218,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724586.4135625,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Manzano",
+                        "horaInicio": 1781764489.9391143,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Naranjo",
+                        "horaInicio": 1781764490.140852,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Limonero",
+                        "horaInicio": 1781764490.5069458,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cacaotero",
+                        "horaInicio": 1781764490.8058481,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cafetal",
+                        "horaInicio": 1781764491.1147795,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Papa",
+                        "horaInicio": 1781725511.3287308,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Tomate",
+                        "horaInicio": 1781725543.983784,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Zanahoria",
+                        "horaInicio": 1781725562.7694423,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Maiz",
+                        "horaInicio": 1781725587.4178915,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Trigo",
+                        "horaInicio": 1781725605.3681023,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725885.1493068,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Molino",
+                        "horaInicio": 1781732734.7311802,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724583.3469844,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Manzano",
+                        "horaInicio": 1781764492.5650592,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Naranjo",
+                        "horaInicio": 1781764492.1447659,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Limonero",
+                        "horaInicio": 1781764491.887807,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cacaotero",
+                        "horaInicio": 1781764491.6449895,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cafetal",
+                        "horaInicio": 1781764491.3787334,
+                        "rotacion": 0
+                    }
+                ],
+                [
+                    {
+                        "tipo": "Papa",
+                        "horaInicio": 1781725507.9753654,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Tomate",
+                        "horaInicio": 1781725537.855618,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Zanahoria",
+                        "horaInicio": 1781725559.310834,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Maiz",
+                        "horaInicio": 1781725582.7115397,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Trigo",
+                        "horaInicio": 1781725602.0247831,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781725882.4877427,
+                        "rotacion": 270
+                    },
+                    null,
+                    {
+                        "tipo": "Estatua",
+                        "horaInicio": 1781732729.769692,
+                        "rotacion": 0
+                    },
+                    null,
+                    {
+                        "tipo": "Cerca",
+                        "horaInicio": 1781724550.666922,
+                        "rotacion": 90
+                    },
+                    {
+                        "tipo": "Manzano",
+                        "horaInicio": 1781764493.05792,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Naranjo",
+                        "horaInicio": 1781764493.3921578,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Limonero",
+                        "horaInicio": 1781764493.692645,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cacaotero",
+                        "horaInicio": 1781764494.0241241,
+                        "rotacion": 0
+                    },
+                    {
+                        "tipo": "Cafetal",
+                        "horaInicio": 1781764494.3528736,
+                        "rotacion": 0
+                    }
+                ]
+            ]
+        },
+        {
+            "id": 1,
+            "matriz": [
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ],
+                [
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            ]
+        }
+    ],
+    "lanaDisponible": false
+}
